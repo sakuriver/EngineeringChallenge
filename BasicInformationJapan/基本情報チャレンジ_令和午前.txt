@@ -37,6 +37,22 @@
 問２５　 　イ     ....〇
 問２６     ウ     ....〇
 問２７　　　ウ     ....イ
+    ア
+    select ...
+    from 
+    inner join
+
+    イ
+    select id, name
+    from user
+
+    ウ
+    select *
+    from user 
+    where user.id = 1
+
+    エ unionは後で見る
+
 問２８     イ     ....〇
 問２９     エ     ....ウ
 問３０     エ     ....〇
