@@ -1,8 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 
-namespace BasicInformationLearnQ9
+namespace BasicInformationLearn48
 {
     public class BattleField
     {
@@ -16,13 +15,15 @@ namespace BasicInformationLearnQ9
         /// <summary>
         /// 3 vs 3戦闘フィールドがスタブとして生成される
         /// </summary>
-        public BattleField() {
-
+        public BattleField()
+        {
+            // プレイヤーのパーティ情報
             playerCharacters = new List<GameCharacter>();
             playerCharacters.Add(new GameCharacter());
             playerCharacters.Add(new GameCharacter());
             playerCharacters.Add(new GameCharacter());
 
+            // cpu側の情報
             cpuCharacters = new List<GameCharacter>();
             cpuCharacters.Add(new GameCharacter());
             cpuCharacters.Add(new GameCharacter());
@@ -31,7 +32,8 @@ namespace BasicInformationLearnQ9
             turn = 1;
         }
 
-        public int GetTurn() {
+        public int GetTurn()
+        {
             return turn;
         }
 
@@ -43,8 +45,10 @@ namespace BasicInformationLearnQ9
         {
 
             var cpuLiveCount = 0;
-            foreach (var cpuCharacter in cpuCharacters) {
-                if (cpuCharacter.IsDead() == false) {
+            foreach (var cpuCharacter in cpuCharacters)
+            {
+                if (cpuCharacter.IsDead() == false)
+                {
                     cpuLiveCount += 1;
                 }
             }
@@ -58,14 +62,18 @@ namespace BasicInformationLearnQ9
         {
             // スタブなので、実行パターンを固定化する
             // プレイヤー→CPU順番で行動
-            foreach (var playerCharacter in playerCharacters) {
+            foreach (var playerCharacter in playerCharacters)
+            {
                 // 死亡しているキャラクターの場合は、行動をスキップする
-                if (playerCharacter.IsDead()) {
+                if (playerCharacter.IsDead())
+                {
                     continue;
                 }
-                for (int i = 0; i < cpuCharacters.Count; i++) {
-                    // 既にやられている敵は、
-                    if (cpuCharacters[i].IsDead()) {
+                for (int i = 0; i < cpuCharacters.Count; i++)
+                {
+                    // 既にやられている敵は、行動させない
+                    if (cpuCharacters[i].IsDead())
+                    {
                         continue;
                     }
 
@@ -76,17 +84,22 @@ namespace BasicInformationLearnQ9
             }
 
             // 全滅していたら終了
-            if (IsPlayerWin()) {
+            if (IsPlayerWin())
+            {
                 return;
             }
 
 
-            foreach (var cpuCharacter in cpuCharacters) {
-                if (cpuCharacter.IsDead()) {
+            foreach (var cpuCharacter in cpuCharacters)
+            {
+                if (cpuCharacter.IsDead())
+                {
                     continue;
                 }
-                for (var i = 0; i < playerCharacters.Count; i++) {
-                    if (playerCharacters[i].IsDead()) {
+                for (var i = 0; i < playerCharacters.Count; i++)
+                {
+                    if (playerCharacters[i].IsDead())
+                    {
                         continue;
                     }
 
@@ -120,19 +133,21 @@ namespace BasicInformationLearnQ9
         /// スタブで実装されている
         /// </summary>
         /// <returns></returns>
-        public int GetAttack() {
+        public int GetAttack()
+        {
             return 10;
         }
 
-        public bool IsDead() {
+        public bool IsDead()
+        {
             return hp <= 0;
         }
 
-        public void IsHit(int damage) {
+        public void IsHit(int damage)
+        {
             hp -= damage;
         }
-    
-    }
 
+    }
 
 }

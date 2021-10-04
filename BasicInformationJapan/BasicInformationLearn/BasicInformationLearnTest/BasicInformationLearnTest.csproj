@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BasicInformationLearnQ9\BasicInformationLearnQ9.csproj" />
+    <ProjectReference Include="..\BasicInformationLearn48\BasicInformationLearn48.csproj" />
   </ItemGroup>
 
 </Project>

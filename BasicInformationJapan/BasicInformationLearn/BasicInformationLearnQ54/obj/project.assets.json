@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\devellop\\EngineeringChallenge\\BasicInformationJapan\\BasicInformationLearn\\BasicInformationLearnQ54\\BasicInformationLearnQ54.csproj",
-      "projectName": "BasicInformationLearnQ54",
-      "projectPath": "D:\\devellop\\EngineeringChallenge\\BasicInformationJapan\\BasicInformationLearn\\BasicInformationLearnQ54\\BasicInformationLearnQ54.csproj",
+      "projectUniqueName": "D:\\devellop\\EngineeringChallenge\\BasicInformationJapan\\BasicInformationLearn\\BasicInformationLearnQ54\\BasicInformationLearnQ57.csproj",
+      "projectName": "BasicInformationLearnQ57",
+      "projectPath": "D:\\devellop\\EngineeringChallenge\\BasicInformationJapan\\BasicInformationLearn\\BasicInformationLearnQ54\\BasicInformationLearnQ57.csproj",
       "packagesPath": "C:\\Users\\SuzueKatsushige\\.nuget\\packages\\",
       "outputPath": "D:\\devellop\\EngineeringChallenge\\BasicInformationJapan\\BasicInformationLearn\\BasicInformationLearnQ54\\obj\\",
       "projectStyle": "PackageReference",

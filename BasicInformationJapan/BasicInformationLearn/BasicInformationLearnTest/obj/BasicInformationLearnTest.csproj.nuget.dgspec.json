@@ -4,14 +4,14 @@
     "D:\\devellop\\EngineeringChallenge\\BasicInformationJapan\\BasicInformationLearn\\BasicInformationLearnTest\\BasicInformationLearnTest.csproj": {}
   },
   "projects": {
-    "D:\\devellop\\EngineeringChallenge\\BasicInformationJapan\\BasicInformationLearn\\BasicInformationLearnQ9\\BasicInformationLearnQ9.csproj": {
+    "D:\\devellop\\EngineeringChallenge\\BasicInformationJapan\\BasicInformationLearn\\BasicInformationLearn48\\BasicInformationLearn48.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\devellop\\EngineeringChallenge\\BasicInformationJapan\\BasicInformationLearn\\BasicInformationLearnQ9\\BasicInformationLearnQ9.csproj",
-        "projectName": "BasicInformationLearnQ9",
-        "projectPath": "D:\\devellop\\EngineeringChallenge\\BasicInformationJapan\\BasicInformationLearn\\BasicInformationLearnQ9\\BasicInformationLearnQ9.csproj",
+        "projectUniqueName": "D:\\devellop\\EngineeringChallenge\\BasicInformationJapan\\BasicInformationLearn\\BasicInformationLearn48\\BasicInformationLearn48.csproj",
+        "projectName": "BasicInformationLearn48",
+        "projectPath": "D:\\devellop\\EngineeringChallenge\\BasicInformationJapan\\BasicInformationLearn\\BasicInformationLearn48\\BasicInformationLearn48.csproj",
         "packagesPath": "C:\\Users\\SuzueKatsushige\\.nuget\\packages\\",
-        "outputPath": "D:\\devellop\\EngineeringChallenge\\BasicInformationJapan\\BasicInformationLearn\\BasicInformationLearnQ9\\obj\\",
+        "outputPath": "D:\\devellop\\EngineeringChallenge\\BasicInformationJapan\\BasicInformationLearn\\BasicInformationLearn48\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SuzueKatsushige\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\devellop\\EngineeringChallenge\\BasicInformationJapan\\BasicInformationLearn\\BasicInformationLearnQ9\\BasicInformationLearnQ9.csproj": {
-                "projectPath": "D:\\devellop\\EngineeringChallenge\\BasicInformationJapan\\BasicInformationLearn\\BasicInformationLearnQ9\\BasicInformationLearnQ9.csproj"
+              "D:\\devellop\\EngineeringChallenge\\BasicInformationJapan\\BasicInformationLearn\\BasicInformationLearn48\\BasicInformationLearn48.csproj": {
+                "projectPath": "D:\\devellop\\EngineeringChallenge\\BasicInformationJapan\\BasicInformationLearn\\BasicInformationLearn48\\BasicInformationLearn48.csproj"
               }
             }
           }

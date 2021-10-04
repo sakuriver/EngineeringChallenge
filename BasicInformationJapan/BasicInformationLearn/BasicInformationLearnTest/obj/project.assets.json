@@ -1635,14 +1635,14 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "BasicInformationLearnQ9/1.0.0": {
+      "BasicInformationLearn48/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/BasicInformationLearnQ9.dll": {}
+          "bin/placeholder/BasicInformationLearn48.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BasicInformationLearnQ9.dll": {}
+          "bin/placeholder/BasicInformationLearn48.dll": {}
         }
       }
     }
@@ -5717,15 +5717,15 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "BasicInformationLearnQ9/1.0.0": {
+    "BasicInformationLearn48/1.0.0": {
       "type": "project",
-      "path": "../BasicInformationLearnQ9/BasicInformationLearnQ9.csproj",
-      "msbuildProject": "../BasicInformationLearnQ9/BasicInformationLearnQ9.csproj"
+      "path": "../BasicInformationLearn48/BasicInformationLearn48.csproj",
+      "msbuildProject": "../BasicInformationLearn48/BasicInformationLearn48.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "BasicInformationLearnQ9 >= 1.0.0",
+      "BasicInformationLearn48 >= 1.0.0",
       "MSTest.TestAdapter >= 2.1.1",
       "MSTest.TestFramework >= 2.1.1",
       "Microsoft.NET.Test.Sdk >= 16.7.1",
@@ -5759,8 +5759,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\devellop\\EngineeringChallenge\\BasicInformationJapan\\BasicInformationLearn\\BasicInformationLearnQ9\\BasicInformationLearnQ9.csproj": {
-              "projectPath": "D:\\devellop\\EngineeringChallenge\\BasicInformationJapan\\BasicInformationLearn\\BasicInformationLearnQ9\\BasicInformationLearnQ9.csproj"
+            "D:\\devellop\\EngineeringChallenge\\BasicInformationJapan\\BasicInformationLearn\\BasicInformationLearn48\\BasicInformationLearn48.csproj": {
+              "projectPath": "D:\\devellop\\EngineeringChallenge\\BasicInformationJapan\\BasicInformationLearn\\BasicInformationLearn48\\BasicInformationLearn48.csproj"
             }
           }
         }

@@ -1,5 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using BasicInformationLearnQ9;
+using BasicInformationLearn48;
 
 namespace BasicInformationLearnTest
 {

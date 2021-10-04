@@ -11,11 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicInformationLearn48", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicInformationLearnTest", "BasicInformationLearnTest\BasicInformationLearnTest.csproj", "{0DFAA8C6-4761-448D-8D55-9C9A4BD6899A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicInformationLearnQ54", "BasicInformationLearnQ54\BasicInformationLearnQ54.csproj", "{8A73D86F-4D95-4613-9203-37AB29430E60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicInformationLearnQ57", "BasicInformationLearnQ54\BasicInformationLearnQ57.csproj", "{8A73D86F-4D95-4613-9203-37AB29430E60}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicInformationPMQ01", "BasicInformationPMQ01\BasicInformationPMQ01.csproj", "{65D7FBB7-259F-47A6-A80B-B88EB8005366}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicInformationLearnLib", "BasicInformationLearnLib\BasicInformationLearnLib.csproj", "{3649CFD9-35B7-43AD-9F21-BFE65AF974FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicInformationLearnLib", "BasicInformationLearnLib\BasicInformationLearnLib.csproj", "{3649CFD9-35B7-43AD-9F21-BFE65AF974FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
