@@ -1,0 +1,16 @@
+;*** [Let'SÅ@CASLáU] ***
+CASL      START
+          RPUSH
+;        ST     GR1, A
+;        ST     GR2, B
+          LAD     GR3, 4
+          AND     GR1, =#000F
+ ;       ST     GR1, RESULT
+  ;      LD     GR1, A
+          SRL     GR1, 0, GR3
+          AND     GR1, =#000F
+          AND     GR2, =#000F
+
+          ADDL    GR1, GR2
+          CPL     GR1, =10
+          END

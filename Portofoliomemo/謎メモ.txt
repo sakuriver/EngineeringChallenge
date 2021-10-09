@@ -1,0 +1,7 @@
+
+
+Cとアセンブラ →　実習用はOS自作入門系
+https://twitter.com/chomado/status/1181056881780875265?s=20
+
+イベントによく出ている転職系で出ているレベルのチャレンジコーナーだけ
+http://zero.osdev.jp/book-sample.pdf
