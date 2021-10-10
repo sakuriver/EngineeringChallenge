@@ -12,5 +12,4 @@ CASL      START
           AND     GR2, =#000F
 
           ADDL    GR1, GR2
-          CPL     GR1, =10
           END
