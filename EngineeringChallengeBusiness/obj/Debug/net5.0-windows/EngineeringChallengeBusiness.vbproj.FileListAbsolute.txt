@@ -20,3 +20,4 @@ D:\devellop\EngineeringChallenge\EngineeringChallengeBusiness\obj\Debug\net5.0-w
 D:\devellop\EngineeringChallenge\EngineeringChallengeBusiness\obj\Debug\net5.0-windows\EngineeringChallengeBusiness.ProductForm.resources
 D:\devellop\EngineeringChallenge\EngineeringChallengeBusiness\obj\Debug\net5.0-windows\EngineeringChallengeBusiness.LegalCheckForm.resources
 D:\devellop\EngineeringChallenge\EngineeringChallengeBusiness\obj\Debug\net5.0-windows\EngineeringChallengeBusiness.ProductApplyForm.resources
+D:\devellop\EngineeringChallenge\EngineeringChallengeBusiness\obj\Debug\net5.0-windows\EngineeringChallengeBusiness.ShopManagerForm.resources
