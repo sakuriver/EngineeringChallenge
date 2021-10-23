@@ -16,3 +16,6 @@ D:\devellop\EngineeringChallenge\EngineeringChallengeBaseProduct\obj\Release\net
 D:\devellop\EngineeringChallenge\EngineeringChallengeBaseProduct\obj\Release\net5.0-windows\ref\EngineeringChallengeBaseProduct.dll
 D:\devellop\EngineeringChallenge\EngineeringChallengeBaseProduct\obj\Release\net5.0-windows\EngineeringChallengeBaseProduct.pdb
 D:\devellop\EngineeringChallenge\EngineeringChallengeBaseProduct\obj\Release\net5.0-windows\EngineeringChallengeBaseProduct.genruntimeconfig.cache
+D:\devellop\EngineeringChallenge\EngineeringChallengeBaseProduct\obj\Release\net5.0-windows\EngineeringChallengeBaseProduct.CardBoardRoom.resources
+D:\devellop\EngineeringChallenge\EngineeringChallengeBaseProduct\obj\Release\net5.0-windows\EngineeringChallengeBaseProduct.DamboleDetail.resources
+D:\devellop\EngineeringChallenge\EngineeringChallengeBaseProduct\obj\Release\net5.0-windows\EngineeringChallengeBaseProduct.Resources.resources
