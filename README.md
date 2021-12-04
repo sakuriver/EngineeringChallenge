@@ -1,5 +1,5 @@
 # EngineeringChallenge
-技術者朝鮮系リポジトリ
+技術者挑戦系リポジトリ
 
 
 ## 概要
